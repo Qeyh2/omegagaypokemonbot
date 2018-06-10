@@ -1,0 +1,2 @@
+# omegagaypokemonbot
+Bot for TJ
